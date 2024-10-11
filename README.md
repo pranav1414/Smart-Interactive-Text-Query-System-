@@ -23,7 +23,7 @@ Provide users with a question-answering interface to query specific PDF extracts
 
 Containerize the FastAPI and Streamlit applications using Docker Compose and deploy them on a public cloud for seamless, scalable access.
 
-**Architecture diagram**
+**Architecture diagram :**
 
 ![image](https://github.com/user-attachments/assets/24c97ffd-f317-44a7-86f9-5198200f8807)
 
