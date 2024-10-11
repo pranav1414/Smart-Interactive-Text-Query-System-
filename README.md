@@ -40,10 +40,11 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 | Chinmay Sawant   | 33.33 %                             |
 | Pranav Sonje     | 33.33 %                             |
 
-**Copy of Codelabs_Team_9** - Google Docs
+**Documentaton Team_9** 
 
+**Code labs** - https://codelabs-preview.appspot.com/?file_id=1bWeRfD-PZkUzgzmZkl6oEnWgsRIx5cKflwPPp1grAXk#7
 
-**Code labs** - https://docs.google.com/document/d/1bWeRfD-PZkUzgzmZkl6oEnWgsRIx5cKflwPPp1grAXk/edit?tab=t.0
+**Google Doc** https://docs.google.com/document/d/1bWeRfD-PZkUzgzmZkl6oEnWgsRIx5cKflwPPp1grAXk/edit?tab=t.0#heading=h.gjdgxs
 
 **Video** - https://drive.google.com/drive/folders/1u76RGgwkakKqHV_WSMLZuZ8VOHN1u0Xl?usp=drive_link
 
