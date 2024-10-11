@@ -43,7 +43,7 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 **Copy of Codelabs_Team_9** - Google Docs
 
 
-**Code labs**
+**Code labs** - https://docs.google.com/document/d/1bWeRfD-PZkUzgzmZkl6oEnWgsRIx5cKflwPPp1grAXk/edit?tab=t.0
 
 **Video** - https://drive.google.com/drive/folders/1u76RGgwkakKqHV_WSMLZuZ8VOHN1u0Xl?usp=drive_link
 
