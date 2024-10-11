@@ -22,3 +22,23 @@ Secure the application using JWT authentication, protecting all API endpoints ex
 Provide users with a question-answering interface to query specific PDF extracts.
 
 Containerize the FastAPI and Streamlit applications using Docker Compose and deploy them on a public cloud for seamless, scalable access.
+
+**Contribution :**
+
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR 
+ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+| Name            | Contribution %                       |
+|------------------|-------------------------------------|
+| Shubham Agarwal  | 33.33 %                             |
+| Chinmay Sawant   | 33.34 %                             |
+| Pranav Sonje     | 33.33 %                             |
+
+**Copy of Codelabs_Team_9** - Google Docs
+
+
+**Code labs**
+
+**Video**
+
+**Web Link** -
