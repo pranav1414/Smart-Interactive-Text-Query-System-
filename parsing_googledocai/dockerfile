@@ -1,0 +1,18 @@
+# Use a base Python image
+FROM python:3.10-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the script into the container
+COPY parsing_googledocai.py ./
+
+# Install required Python packages for the script
+RUN pip install --no-cache-dir google-cloud-storage \
+    google-cloud-documentai
+
+# Specify environment variables (Optional, if needed for GCP credentials)
+# ENV GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
+
+# Set the entry point to run the script
+CMD ["python", "parsing_googledocai.py"]
