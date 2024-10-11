@@ -45,6 +45,6 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 **Code labs**
 
-**Video** - 
+**Video** - https://drive.google.com/file/d/1zSU5oZd-BM_SmKaMoPi72DToZ5OZu5Yn/view?usp=sharing
 
 **Web Link** - http://34.168.71.13:8501
